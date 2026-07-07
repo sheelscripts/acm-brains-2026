@@ -3,6 +3,7 @@ import SectionHeading from "@/components/shared/SectionHeading";
 import { getCommittee } from "@/lib/content";
 
 const GROUP_TITLES: Record<string, string> = {
+  patron: "Patrons",
   chair: "General Chairs",
   advisory: "Advisory Board",
   local: "Local Organizing Committee",
@@ -12,6 +13,7 @@ const GROUP_TITLES: Record<string, string> = {
 };
 
 const COLOR_MAP: Record<string, { badge: string; border: string }> = {
+  patron: { badge: "bg-primary/10 text-primary border-primary/20", border: "border-primary" },
   chair: { badge: "bg-primary/10 text-primary border-primary/20", border: "border-primary" },
   advisory: { badge: "bg-ruby/10 text-ruby border-ruby/20", border: "border-ruby" },
   local: { badge: "bg-lemon/15 text-[#9b6829] border-lemon/30", border: "border-[#9b6829]/30" },
@@ -25,6 +27,7 @@ export default function CommitteePage() {
 
   // Group committee members
   const grouped: Record<string, typeof committee> = {
+    patron: [],
     chair: [],
     advisory: [],
     local: [],

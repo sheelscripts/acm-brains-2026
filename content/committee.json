@@ -1,5 +1,26 @@
 [
   {
+    "name": "Prof. (Dr.) Mahesh Verma",
+    "role": "Chief Patron",
+    "affiliation": "Hon’ble Vice Chancellor, GGSIPU",
+    "group": "patron",
+    "photo": "/faculty/mahesh-verma.png"
+  },
+  {
+    "name": "Prof. Arvinder Kaur",
+    "role": "Patron",
+    "affiliation": "Director (Academics) [EDC] & Dean, USAR",
+    "group": "patron",
+    "photo": "/faculty/arvinder-kaur-v2.png"
+  },
+  {
+    "name": "Dr. Kamal Pathak",
+    "role": "Patron",
+    "affiliation": "Registrar, GGSIPU",
+    "group": "patron",
+    "photo": "/faculty/kamal-pathak-v2.png"
+  },
+  {
     "name": "Prof. Rahul Johari",
     "role": "General Chair",
     "affiliation": "USAR, GGSIPU",
@@ -28,64 +49,56 @@
     "role": "Advisory Board Member",
     "affiliation": "Netaji Subhash University of Technology East Campus, Delhi",
     "group": "advisory",
-    "email": "nanhay.singh@nsut.ac.in",
-    "contact": "9971594480"
+    "email": "nanhay.singh@nsut.ac.in"
   },
   {
     "name": "Prof. Shailender Kumar",
     "role": "Advisory Board Member",
     "affiliation": "Delhi Technological University",
     "group": "advisory",
-    "email": "shailenderkumar@dce.ac.in",
-    "contact": "9810566485"
+    "email": "shailenderkumar@dce.ac.in"
   },
   {
     "name": "Prof. A K Mohapatra",
     "role": "Advisory Board Member",
     "affiliation": "IGDTUW, Delhi",
     "group": "advisory",
-    "email": "akmohapatra@igdtuw.ac.in",
-    "contact": "9810381424"
+    "email": "akmohapatra@igdtuw.ac.in"
   },
   {
     "name": "Prof. M P Mishra",
     "role": "Advisory Board Member",
     "affiliation": "IGNOU, New Delhi",
     "group": "advisory",
-    "email": "mpmishra@ignou.ac.in",
-    "contact": "9968275919"
+    "email": "mpmishra@ignou.ac.in"
   },
   {
     "name": "Dr. Karan Singh",
     "role": "Advisory Board Member",
     "affiliation": "Jawaharlal Nehru University, New Delhi",
     "group": "advisory",
-    "email": "Karan@mail.jnu.ac.in",
-    "contact": "9971037951"
+    "email": "Karan@mail.jnu.ac.in"
   },
   {
     "name": "Prof. Manju Khari",
     "role": "Advisory Board Member",
     "affiliation": "Jawaharlal Nehru University, New Delhi",
     "group": "advisory",
-    "email": "manjukhari@jnu.ac.in",
-    "contact": "9899296110"
+    "email": "manjukhari@jnu.ac.in"
   },
   {
     "name": "Prof. Deo Prakash Vidyarthi",
     "role": "Advisory Board Member",
     "affiliation": "Jawaharlal Nehru University, New Delhi",
     "group": "advisory",
-    "email": "dpv@mail.jnu.ac.in",
-    "contact": "9868269900"
+    "email": "dpv@mail.jnu.ac.in"
   },
   {
     "name": "Prof. Rakesh Kumar Singh",
     "role": "Advisory Board Member",
     "affiliation": "IGDTUW, Delhi",
     "group": "advisory",
-    "email": "rksingh@igdtuw.ac.in",
-    "contact": "9899099070"
+    "email": "rksingh@igdtuw.ac.in"
   },
   {
     "name": "Dr. Ashish Joshi",
@@ -93,6 +106,24 @@
     "affiliation": "Assistant Professor, USAR",
     "group": "local",
     "email": "ashish.j@ipu.ac.in"
+  },
+  {
+    "name": "Ms. Geeta Mahajan",
+    "role": "Local Organizing Committee",
+    "affiliation": "DR (GA), GGSIPU",
+    "group": "local"
+  },
+  {
+    "name": "Mr. Ramesh Kumar",
+    "role": "Local Organizing Committee",
+    "affiliation": "AR (GA), GGSIPU",
+    "group": "local"
+  },
+  {
+    "name": "Dr. Madhu Gupta",
+    "role": "Local Organizing Committee",
+    "affiliation": "AR (GA), GGSIPU",
+    "group": "local"
   },
   {
     "name": "Dr. Ravi Butola",
