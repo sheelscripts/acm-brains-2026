@@ -1,0 +1,52 @@
+[
+  {
+    "label": "Call for Papers Opens",
+    "date": "2026-07-10",
+    "done": false
+  },
+  {
+    "label": "Abstract Submission Deadline",
+    "date": "2026-08-15",
+    "done": false
+  },
+  {
+    "label": "Full Paper Submission Deadline",
+    "date": "2026-08-31",
+    "done": false
+  },
+  {
+    "label": "Review Period Ends",
+    "date": "2026-09-30",
+    "done": false
+  },
+  {
+    "label": "Notification of Acceptance",
+    "date": "2026-10-05",
+    "done": false
+  },
+  {
+    "label": "Camera-Ready Submission",
+    "date": "2026-10-15",
+    "done": false
+  },
+  {
+    "label": "Early-Bird Registration Ends",
+    "date": "2026-10-20",
+    "done": false
+  },
+  {
+    "label": "Regular Registration Ends",
+    "date": "2026-11-01",
+    "done": false
+  },
+  {
+    "label": "Workshops & Tutorials",
+    "date": "2026-11-05",
+    "done": false
+  },
+  {
+    "label": "Main Conference",
+    "date": "2026-11-06",
+    "done": false
+  }
+]

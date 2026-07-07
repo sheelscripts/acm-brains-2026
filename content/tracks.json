@@ -1,0 +1,42 @@
+[
+  {
+    "domain": "Blockchain & Distributed Systems",
+    "topics": [
+      "Web3 Infrastructure",
+      "Smart Contracts & Verification",
+      "Zero Trust Architectures",
+      "Cloud Security & Decentralization"
+    ],
+    "icon": "Database"
+  },
+  {
+    "domain": "Robotics & Autonomous Systems",
+    "topics": [
+      "Humanoid & Swarm Robotics",
+      "Industrial & Medical Automation",
+      "Drone Systems & Navigation",
+      "Multi-Agent Learning Control"
+    ],
+    "icon": "Bot"
+  },
+  {
+    "domain": "AI, Machine Learning & Computer Vision",
+    "topics": [
+      "LLMs & AI Agents",
+      "Generative & Edge AI",
+      "Responsible & Explainable AI",
+      "Deep Learning & Object Recognition"
+    ],
+    "icon": "Brain"
+  },
+  {
+    "domain": "Network & Cyber Security",
+    "topics": [
+      "IoT Security & Digital Twins",
+      "Smart Cities & Quantum Computing",
+      "Human-Computer Interaction (HCI)",
+      "High-Performance Computing (HPC)"
+    ],
+    "icon": "Network"
+  }
+]
